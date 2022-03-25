@@ -1,0 +1,6 @@
+# package
+node_modules/
+
+# utils
+.DS_Store
+.env
